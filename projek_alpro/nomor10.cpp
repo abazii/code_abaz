@@ -111,6 +111,5 @@ int main (){
 		cout<<"Perpaduan Warna Tetrad Complementary dengan warna nomor : "<<endl
 		<<kindeks(nomor+3)<<"("<<warna[kindeks(nomor+3)-1]<<"), "<<kindeks(nomor+6)<<"("<<warna[kindeks(nomor+6)-1]<<"), "<<kindeks(nomor+9)<<"("<<warna[kindeks(nomor+9)-1]<<")";
 	}
-	//aku ganteng
 	return 0;	
 }
